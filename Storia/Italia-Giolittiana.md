@@ -1,17 +1,21 @@
 # L'Italia Giolittiana
 ### L'Italia d'inizio novecento
-
-Normal __Bold__ _Italic_ ___Both___ 
+p. 76-79
 
 ---
 
 ### Le tre questioni
 - ####  Meridionale
+p. 84-86
 - ####  Cattolica
+p. 82-83
 - ####  Sociale
+p. 79-82
+
 ---
 
 ## La guerra in Libia
+p. 87-91 
 
 ---
 
