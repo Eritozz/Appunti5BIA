@@ -1,5 +1,5 @@
 # L'Italia Giolittiana
-### L'Italia d'inizio novecento
+## L'Italia d'inizio novecento
 
 Alla fine dell'ottocento l'italia vive una grande crescita economica. Vengono adottate, infatti,  misure protezionistiche, grazie alle quali il **Capitalismo di Stato** riesce a dare in forte impulzo ai settori chimico, metallurgico e meccanico che dura fino al *1907*.
 Il nord Del paese passa all'economia di fabbrica, grazie al **triangolo industriale** (Genova, Torino e Milano) e all'aiuto delle bache che permettono la fondazione di nuovi gruppi industriali.
@@ -8,13 +8,13 @@ Questa situazione di *tenzione sociale* e di *confusione istituzionale* tocca il
 
 ---
 
-### Le tre questioni
+## Le tre questioni
 I problemi con i quali giolitti dovette aver a che fare nel primo decennio del '900 erano: <br>
 **- [La questione meridionale](#meridionale) -**<br>
 **- [La questione cattolica](#cattolica) -** <br>
 **- [La questione sociale](#sociale) -** <br>
 
-- ####  <a id="meridionale"></a>  La questione Meridionale
+- ###  <a id="meridionale"></a>  La questione Meridionale
 Alle soglie del '900, in meridione, l'industria non aveva ancora preso piede: mancavano le infratrutture (porti, ferrovie e strade) che non permettevano di creare una rete commerciale competitiva.
 Tutto il lato economico, infatti, era dominato dal latifondo e dall'agricultura estensiva: i proprietari erano assenteisti e approvavano pochi investimenti. Inoltre, l'esportazione dei beni coltivati, come l'olio, del vino, del grano e della frutta, non era riuscito ad affermarzi nel mercato internazionale e venne ulteriormente penalizzato non l'adozione del **protezionismo**. A tutto ciò si aggiungeva un **fisco oppressivo** e un **amministrazone pubblica inefficente e corrotta**. 
 Intanto le **rimesse degli emigranti** (soldi rimandati indietro da chi era andato a trovar fortuna in un altro paese) costituivano un importante voce nelle entrate meridionali.
@@ -24,14 +24,14 @@ Giolitti emanò così delle **leggi speciali** per ogni regione interessata dall
 Tutti questi interventi, però, si rivelarono **inefficaci** e il divario tra Nord e Sud si accentuò. A tutto ciò si aggiunze il terribile terremoto del 1908 che costrinze ad impiegare i fondi per lo sviluppo nella ricostruzione.
 Giolitti, comunque, aippoggiò ai ceti dominanti in quelle zone, ottenendo un buon bacino di voti cìgrazie al **clientelismo** e alla **corruzione**. Venne così accusato di agire come un **Ministro della malavita**. 
 
-- ####  <a id="cattolica"></a>  La questione Cattolica
+- ###  <a id="cattolica"></a>  La questione Cattolica
 Un altro obiettivo che si era posto Giolitti era quello di risanare la frattura tra lo Stato Italiano e Pio IX, che aveva emanato il ***non expedit*** (tutti i cittadini cattolici erano tenuti a non votare in nessun tipo di elezione).
 Il primo tentativo di riavvicinamento avvenne nelle elezione del 1904, dove Giolitti cercò un' intesa con i cattolici, alla quale Pio IX non si oppose, allentando di fatto il *non expedit*.
 Giolitti primise, infatti, di abbandonare tutti gli etteggiamenti laicisti e anticlericali. In Tale occasione approdarono in Camera i primi **cattolici deputati**.
 Giolitti strinze anche un accordo con il conte *Vincenzo Ottorino Gentiloni*, presidente dell'Unione elettorale cattolica. Il ***Patto Gentiloni*** era un accordo informale che stabiliva che i credenti avessero votato per tutti i *candidati liberali* che non avrebbero assunto, nel nuovo parlamento, **iniziative sgradite alla Chiesa**. Con il *Patto gentiloni* il *non expedit* fu **sospeso**. 
 
 
-- ####  <a id="sociale"></a>  La questione Sociale
+- ###  <a id="sociale"></a>  La questione Sociale
 Negli ultimi decenni dell '800 vi fu un accrescimento del movimento dei lavoratori, grazie agli interventi dei partiti di Sinistra e alle nuove capacità di auto-organizzazione dei salariati.
 Altri motivi che incrementarono la consapevolezza dei lavoratori erano:
 - **L'istruzione elementare** gratutita e obbligatoria
