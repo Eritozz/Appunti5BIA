@@ -13,8 +13,8 @@ Tutto il codice php deve essere posto all'interno del tag speciale <code>\<?php<
 
 ## Le variabili
 Il php è un linguaggio non tipizzato, pertanto le variabili possono assumere qualsiasi tipo di valore. <br>
-Le variabili sono **sempre** precedute dal simbolo del dollaro e un esempio di inizializzazione di una variabile è: <code> \$var = 1; </code><br>
-ma il suo valore può essere anche <code> \$var = true; </code>
+Le variabili sono **sempre** precedute dal simbolo del dollaro e un esempio di inizializzazione di una variabile è: <code>\$var = 1;</code><br>
+ma il suo valore può essere anche <code>\$var = true;</code>
 
 ---
 
@@ -22,8 +22,8 @@ ma il suo valore può essere anche <code> \$var = true; </code>
 Echo è una direttiva che permette di convertire una stringa in tag e linee html.<br>
 <code>echo "\<h1> Title \</h1>";</code><br>
 La concatenazione avviene tramite i <code>.</code> invece che con i <code>+</code>.<br>Si possono ovviamente concatenare anche le variabili: <br>
-<code> \$var = 'Hello';</code> <br>
-<code> echo \$var . "World";</code><br>
+<code>\$var = 'Hello';</code> <br>
+<code>echo \$var . "World";</code><br>
 Output: <code>Hello World</code>
 
 ---
@@ -44,7 +44,7 @@ I valori passati con i metodi POST e GET vengono inseriti all'interno di un arra
 &emsp;<code>\<input type="text" name="Nome"></code><br>
 <code>\</form></code><br>
 *ProssimaPagina.php*<br>
-<code><?php</code><br>
+<code>\<?php</code><br>
 &emsp;<code>echo $_GET['Nome'];</code> (per il metodo POST l'array sarà <code>\$_POST[]</code>)<br>
 <code>?></code><br>
 
