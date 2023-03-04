@@ -96,5 +96,4 @@ File: ***docker-compose.yml*** <br>
 |&emsp;|&emsp;|&emsp; <code> - *RelativePath:pathNelContainer* </code><br>
 
 <br><br>
-by ***Leonardo Canu***
-*5B-IA*
+by ***Leonardo Canu** **5B-IA*
