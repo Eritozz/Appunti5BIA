@@ -78,7 +78,7 @@ conclude l'esecuzione tutti i pricessi avviati dal docker-compose
 ---
 
 ## Esempio di docker-compose
-File: ***docker-compose.yml***
+File: ***docker-compose.yml*** <br>
 <code> version: "2.2" </code> (senza quest'istruzione non funziona niente nelle nuove versioni) <br>
 <code> services: </code> <br>
 |&emsp; <code> mioServizio: </code> <br>
