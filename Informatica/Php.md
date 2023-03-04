@@ -5,25 +5,30 @@ Il php è un linguaggio inetrpretato lato server che permette la generazione din
 
 Tutto il codice php deve essere posto all'interno del tag speciale <code>\<?php</code> e <code>\?></code>
 
-<code><?php</code><br>
+<code>\<?php</code><br>
 &emsp;<code>echo "Hello World!";</code><br>
-<code>?></code> <br>
+<code>\?></code> <br>
 
-- ## Le variabili
+---
+
+## Le variabili
 Il php è un linguaggio non tipizzato, pertanto le variabili possono assumere qualsiasi tipo di valore. <br>
 Le variabili sono **sempre** precedute dal simbolo del dollaro e un esempio di inizializzazione di una variabile è: <code> \$var = 1; </code><br>
 ma il suo valore può essere anche <code> \$var = true; </code>
 
+---
 
-- ## Echo
+## Echo
 Echo è una direttiva che permette di convertire una stringa in tag e linee html.<br>
 <code>echo "\<h1> Title \</h1>";</code><br>
 La concatenazione avviene tramite i <code>.</code> invece che con i <code>+</code>.<br>Si possono ovviamente concatenare anche le variabili: <br>
-<code> \$var = 'Hello'</code> <br>
-<code> echo \$var . "World"</code><br>
+<code> \$var = 'Hello';</code> <br>
+<code> echo \$var . "World";</code><br>
 Output: <code>Hello World</code>
 
-- ## La sintassi
+---
+
+## La sintassi
 Per il resto, la sintassi del php è molto simile a quella già studiata negli altri linguaggi di programmazione, l'unica differenza è che vengono utilizzate le <code>-></code> al posto dei <code>.</code> per richiamare le funzioni o gli attributi relativi ad un oggetto.
 
 ---
