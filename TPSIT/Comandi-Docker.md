@@ -79,21 +79,21 @@ conclude l'esecuzione tutti i pricessi avviati dal docker-compose
 
 ## Esempio di docker-compose
 File: ***docker-compose.yml***
-<code> version: "2.2" </code> (senza quest'istruzione non funziona niente nelle nuove versioni)
-<code> services: </code>
-|&emsp; <code> mioServizio: </code>
-|&emsp;|&emsp; <code> image: *immagine* </code> (immagine da usare)
-|&emsp;|&emsp; <code> ports:  </code> (port forwarding)
-|&emsp;|&emsp;|&emsp; <code> - *8080:80* </code>
-|&emsp;|&emsp;|&emsp; <code> - *8081:443* </code>
-|&emsp;|&emsp; <code> volumes: </code>
-|&emsp;|&emsp;|&emsp; <code> - *RelativePath:pathNelContainer*  </code>      	
-|&emsp; <code> altroServizio: </code>
-|&emsp;|&emsp; <code> build: pathDockerfile </code>(in alternativa alla direttiva "image")
-|&emsp;|&emsp; <code> ports: </code>
-|&emsp;|&emsp;|&emsp; <code> - *3306:3306* </code>
-|&emsp;|&emsp;	 <code> volumes: </code>
-|&emsp;|&emsp;|&emsp; <code> - *RelativePath:pathNelContainer* </code>
+<code> version: "2.2" </code> (senza quest'istruzione non funziona niente nelle nuove versioni) <br>
+<code> services: </code> <br>
+|&emsp; <code> mioServizio: </code> <br>
+|&emsp;|&emsp; <code> image: *immagine* </code> (immagine da usare) <br>
+|&emsp;|&emsp; <code> ports:  </code> (port forwarding) <br>
+|&emsp;|&emsp;|&emsp; <code> - *8080:80* </code> <br>
+|&emsp;|&emsp;|&emsp; <code> - *8081:443* </code> <br>
+|&emsp;|&emsp; <code> volumes: </code> <br>
+|&emsp;|&emsp;|&emsp; <code> - *RelativePath:pathNelContainer*  </code > <br>      	
+|&emsp; <code> altroServizio: </code> <br>
+|&emsp;|&emsp; <code> build: pathDockerfile </code>(in alternativa alla direttiva "image") <br>
+|&emsp;|&emsp; <code> ports: </code> <br>
+|&emsp;|&emsp;|&emsp; <code> - *3306:3306* </code> <br>
+|&emsp;|&emsp;	 <code> volumes: </code> <br>
+|&emsp;|&emsp;|&emsp; <code> - *RelativePath:pathNelContainer* </code><br>
 
 <br><br>
 by ***Leonardo Canu***
