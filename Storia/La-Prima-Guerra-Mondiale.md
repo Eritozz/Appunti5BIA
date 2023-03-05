@@ -44,7 +44,7 @@ Queste furono 3 battaglie intraprese dalla Germania per tentare di concludere il
 
 ## La guerra sui mari
 Si avviò anche una guerra navale tra **Rego Unito e Germania a Nord** ma nessuno riuscì a prevalere. I tedeschi decisero quindi di ritirare le navi nei porti, e il Regno Unito sfruttò il momento per attuare **il blocco navale** per impedire alle risorse Americade di reggiungere Austria e Germania. <br>
-Berlino rispose, quindi, con un controblocco formato dalla sua **nuova armata sottomarina** che attaccò le navi inglesi, ma non solo, anche dei paesi neutrali. **Portando all'evento di Lusitania**, motivo principale dell'**entrata in guerra dell'America**.
+Berlino rispose, quindi, con un controblocco formato dalla sua **nuova armata sottomarina** che attaccò le navi inglesi, ma non solo, anche dei paesi neutrali. <a id="Lusitania"></a>**Portando all'evento di Lusitania**, motivo principale dell'**entrata in guerra dell'America**.
 
 ---
 
@@ -56,70 +56,71 @@ la Romania tentò di dare manforte alla russia ma venne invasa e sconfitta rapid
 
 ## Il fronte dei Balcani
 Gli equilibri nei balcani furono rotti dopo **l'entrata in guerra dell'Impero Ottomano** a fianco dell'Austria-Ungheria e dai **giovani turchi**. Gli Inglesi provarono subito a piegare Istambul sullo *stretto dei Dardanelli*, ma durante **la battaglia Gallipoli** gli Inglesi pfurno sconfitti. Subiyo dopo Germania, Austria,e Bulgaria attaccarono e sconfissero la Serbia.<br>
-Gli ottimani, **esausti dopo la battaglia di Gallipoli**, non hanno più le forza aiutare germania e gli altri, e devono combattere le rivolte arabe istigate dagli inglesi. Inoltre, sfruttando il diversicvo armeno, gli ottomani riprese la **pulizia etnica degli armeni** perchè accusati di:
-- ramare contro l'impero
-- volevano l'indipendenza
+Gli ottimani, **esausti dopo la battaglia di Gallipoli**, non avevano più le forze per procedere nella guerra, e in oltre furono costretti a combattere **le rivolte arabe istigate dagli inglesi**. Inoltre, sfruttando il diversivo della guerra, gli ottomani ripresero la **pulizia etnica degli armeni** accusati di:
+- tramare contro l'impero
+- volere l'indipendenza
 - essere alleati della russia zarista.
 
-uccidono anche gli armeni nell'esercito, **genocidio degli armeni**. 
+Uccisero anche diversi armeni nell'esercito. Questo atto fu chiamato **genocidio degli armeni**. 
 
 ---
 
 ## Il fronte Italiano
-tra il friuli e trentino. gli italiani avevano come obiettivo trieste, con pochi guadagni rispetto ai morti. l'austia con la strafexpedition provano a punire roma, ma vengono fermati in veneto.
-Le truppe erano guidate dal generale luigi cadorna, ma era impreparato alla nuova guerra, perchè formato per la guerra 800esca. faceva quello che voleva, pensava che per vincere bastava avere più soldati e attuava una politica inflessibile con comando autoritario e era disfattista. Ciò portò alla disfatta di caporetto, assieme a rivolte operaie interne e scioperi. Papa Benedetto XV tenta di fermare la guerra con un appello alle parti belligeranti definisce la guerra un inutile strage.
-la germania llaustria tenta un attacco all'italia con le truppe rientrate dal fronte russo. spezzarono la linea italiana sull'isonzo e si spingono in profonità.
-In italia vengono dati ordini contraddittori e confusi e cadorna addossa la colpa ai soldati italiani, provocando scioperi in prima linea, in più cadorna decise di non dare assistenza ai soldati catturati.
-Cadorna fu destituito e misero al auo posto armando Diaz, che con un approccio più cpmprensivo di quello del suo predecessore: fece diverza promesse ai soldati, che dimostrarono il loro valore, con un data di patriottismo. L'italia fermò l'vanzata tedesca e austriaca sul fiume piave. 
+Il fronte Italiano fu combattuto tra il friuli e trentino. l'obiettivo principali degli italiano era trieste, ma i guadagni in quanto a terreni erano pochi rispetto al costo in morti. L'austria provò, con la *strafexpedition*, a punire Roma, ma furono fermati fermati in veneto e respinti quasi tempestivamente.<br>
+Le truppe italiane erano guidate dal *generale Luigi Cadorna*, una fugura molto controverza: era **totalmente impreparato alla nuova guerra**, agiva in maniera troppo indipendente e la sua stategia constava nel inviare quanti più soldati possibili.<br>
+Papa Benedetto XV tentò inoltre di fermare la guerra con un appello alle parti belligeranti definendola *un'inutile strage*.<br>
+La Germania e l'Austria-Ungheria tentarono un attacco sul fronte Italiano utilizzando le truppe libere rientrate dal fronte russo. **Così riuscirono a spezzare la linea italiana sul fiume Isonzo** e si spinsero in profonità, fino alla Padania.<br>
+Gli alti gradi italiani diedero ordini contraddittori e confusi e Cadorna addossò la colpa ai soldati italiani, provocando diversi scioperi e ammutinamenti, in più decise di non dare assistenza ai soldati catturati.<br>
+Cadorna fu destituito e al auo posto salì al comando Armando Diaz, che con un approccio più comprensivo di quello del suo predecessore fece diverse promesse ai soldati, e con una nuova ondata di patriottismo dimostrarono il loro valore, con un data di patriottismo. L'italian riuscì a fermare l'vanzata tedesca e austriaca sul fiume Piave. 
 
 ---
 
 ## L'intervento degli Stati Uniti
-Nel 1917 gli statu inutu dichiarano guerra a germania, condai 14 piunti wilson.
-i 14 punti di wilson contro gli isolazionisti:
-- rifiutava l'autoritarismo degli imperi centrali e l'imperialismo
-- **principtio di autodeterminazione dei popoli**
-- sosteneva la **piena libertà di navigaione sugli oceani**
-- abolizione diplomazia segreta
-- piccola soluzione alle questioni coloniali
-- proposta per il nuovo assetto europeo
-- auspicava la creazione della **sdn** società delle nazioni
+**Nel 1917 gli Stati Uniti decisero di dichiarare guerra alla Germania**, già infastiditi dalla condotta Germanica sugli oceani furono convinti dall'[evento di Lusitania](#Lusitania) e dai 14 piunti Wilson.<br>
+I 14 punti di Wilson erano una dichiarazione principalmente contro gli isolazionisti e:
+- rifiutavano l'autoritarismo degli imperi centrali e i condcetti alla case dell'imperialismo
+- predicavano il **principio di autodeterminazione dei popoli**
+- sostenevano la **piena libertà di navigaione sugli oceani**
+- chiedevanoabolizione diplomazia segreta
+- proponevano una soluzione alle questioni coloniali
+- parlavano di un nuovo ipotetico asseto europeo
+- auspicavano la creazione della **Sdn** o società delle nazioni
 
-porta entusiasmo negli stati alleati e i cattivi si cagano addosso e influenza le loro stategie
+Questa dichiarazione portò molto entusiasmo all'interno degli statidell'intesa, mentre quelli dell'altra fazione **cominciarono a mutare le proprie strategie**, preparandosi all'arrivo dei rinforzi americani. 
 
 ---
 
-## il cdollo della germania e austria
-dopo un potente attacco dei tedeschi nel 1918 sul punto di fusione delle truppe inglesi e francesi, che arrivò fino in profondità. Ma venne bloccato e respinto con l'arrivo di un milione di soldati americani. tra la serie di sconfitte, quella determinante per la germani fu quella della battaglia **Amiens** .
-il frollo tuttavia fu intern, che prtò alla proclamazione dela repubblica, dopo la fuga di guglielmo II . I tedeschi firmarono il trattato di pace, arrendendosi senza condizioni. Nacque il mito della pugnalata aòòe spalle, perchè furono sconfitti on in una battaglia decisiva me quindi si pensava che fosse perza a causa dei politici.
-Gli italiani sconfissero definitivamente gli autriaci a vittorio veneto, facendogli firmare l'armistizio, carlo primo abbandona l'austria e diventa una repubblica. La bulgaria e l'impero ottomano , privi delle forza si arresero. 
-> come detto all'inizio **vinse chi resistette più a lungo**
+## Il crollo della Germania e Austria
+nel 1918, a seguito di un potente attacco delle forze tedesche sul punto di intersezione delle truppe inglesi e francesi, **riuscirono ad arrivare fino in profondità nel territorio farcese**. Ma furono bloccati e respinti a cauda dell'arrivo di un milione di soldati americani. Si avviò così una lunga serie di sconfitte per la Germania, e quella determinante pefu quella della battaglia **Amiens** .<br>
+Il crollo fu, tuttavia, interno, e portò alla proclamazione della repubblica, dopo la fuga di Guglielmo II . La germania firmò il trattato di pace, arrendendosi senza condizioni. Nacque così il mito della pugnalata alle spalle, perchè non furono sconfitti in una vera propria battaglia decisiva, e quindi l'opinione comune pensava di aver perso la guerra a causa dei politici.<br>
+Gli italiani **sconfissero definitivamente gli austriaci a Vittorio Veneto**, facendogli firmare l'armistizio. Subito Carlo Primo abbandonò il suo paese e l'Austria diventò una repubblica. La Bulgaria e l'Impero Ottomano, privi delle forze e delle risorse si devettero arrendere. 
+> La guerra, come anticipato dall'inizio, **la vinse chi resistette più a lungo**
 
 ---
 
 ## La Grande Guerra
-si è meritato il titolo di guerra mondiale, erano entrati quasi tutti i paesi e le loro colonie
-una nuova guerra richiedeva un numero molto maggiore di persone, e furono impegnate le masse, i coloni e i più giovani (i ragazzi del '99).
-mancano gli uomini e le donne devono andare in fabbrica, e da più consapevolezza e nascono più lotte per i diritti.
-ci fu un grande svilutto economico, con uove invenzioni e la nuova economia di guerra.
-Anche il cosìddetto fronte interno ebbe un ruolo fondamentale, aiutando molto per i reclutamenti con il forte controllo dell'opinione pubblica esercitato soprattutto dagli imperi centrali con:
-- condizionamento della stampa
-- propaganda di guerra 
-- campagne di reclutamento
-- punizione di ogni disfattismo
+Questa querra si è meritata il titolo di **Guerra Mondiale** principalente per la quantità di paesi entrati nel conflitto, tra imperi e rispettive colonie le nazioni in gioco raggiungevano la trentina.<br>
+Questa nuova guerra richiese un numero molto maggiore di persone, costringendo a impegare gran parte della massa e dei contadini, i coloni e i più giovani (**come per esempio i ragazzi del '99**).<br>
+Mancando gli uomini, le donne furono costrette a svolgere tutti i lavori che prima toccavano ai maschi fabbrica, e in questa maniera acquisirono più consapevolezza aumentando la quantità di **lotte per i loro diritti**.
+Vi fu, inoltre, un grande sviluppo economico, con **nuove invenzioni** e la **nuova economia di guerra**.<br>
+Anche il cosìddetto fronte interno ebbe un ruolo fondamentale utilizz: grazie al  forte controllo dell'opinione pubblica esercitato soprattutto dagli imperi centrali:
+- **condizionò la stampa**, aiutando a migliorare l'opinione pubblica riguard alla guerra 
+- si fcero molte e lunghe **campagne di reclutamento**
+- **venne punito di ogni tipo di disfattismo**
 
 ---
 
 ## I Trattati di pace
--Trattato di Versailles: impone durissime condizioni alla Germania, dovendo restituire molti territori e pagare enormi debiti di guerra.
--Trattati di Saint Germain e del Trianon: riconoscono la leggitimità dell'impero austro ungarico e la nascita di Cecoslovacchia e Jugoslavia
--Trattato di Neuilly: riduzione del territorio della Bulgaria
--Trattato di Sevres: l'impero ottomani deve cedere i suoi territori in medio oriente a Francia e Inghilterra.
+I trattati principali firmati al termine della guerra furono:
+- **Trattato di Versailles**: che impose durissime condizioni alla Germania, e la constrinze a restituire molti territori e a pagare enormi debiti.
+- i **Trattati di Saint Germain e del Trianon**: riconoscevano la leggitimità dell'impero Austro-Ungarico e, grazie al principio di autodeterminazione dei popoli sanciva la nascita di Cecoslovacchia e Jugoslavia.
+- **Trattato di Neuilly**: ridceva il territorio della Bulgaria
+- **Trattato di Sevres**: diceva che l'Impero Ottomano doveva cedere i suoi territori in medio oriente alla Francia e all'Inghilterra.
 
 ---
 
 ## La vittoria mutilata
-A causa del principio di autodeterminazione dei popoli, i territori della dalmazia venneso assegnati alla jugoslavia. Si creano così diverse delusioni e risentimenti perchè andava contro i trattati di londra. Nonostrante l'annessione del trentino e dell'alto adige nacque il mito della vittoria mutilata, e si pensava che i soldati italiani non fossero stati ricompensati per i loro servizi a fianco dell'intesa.
+A causa del principio di autodeterminazione dei popoli **i territori della Dalmazia vennero assegnati alla Jugoslavia**. Si espansero diverse delusioni e risentimenti pochè questa decisione **andava contro i trattati di Londra**. Nonostrante **l'annessione del Trentino e dell'Alto Adige** da questa questa infelice conlusione nacque il mito della ***vittoria mutilata***: si credeva che i soldati italiani non fossero stati ricompensati adeguatamente per i loro servizi a fianco dell'intesa.
 
 <br><br>
 by ***Leonardo Canu*** *5B-IA*
