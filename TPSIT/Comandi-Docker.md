@@ -1,99 +1,99 @@
 # Comandi Docker 
 ## Comandi
-- <code> > docker images </code>
+- ` > docker images `
 visualizza tutte le immagini salvate sulla macchina
 
-- <code> > docker rmi *nome:tag* </code>
+- ` > docker rmi *nome:tag* `
 cancella un' immagine
 
-- <code> > docker pull *nome:tag* </code>
+- ` > docker pull *nome:tag* `
 scaricare un'immagine dal repository di Docker Hub
 
-- <code> > docker ps </code>
+- ` > docker ps `
 visualizza tutti i container in esecuzione
-    - <code> -a </code> visualizza tutti i container, anche quelli usati in passato
+    - ` -a ` visualizza tutti i container, anche quelli usati in passato
 
-- <code> > docker rm *nome/id* </code> 
+- ` > docker rm *nome/id* ` 
 viene eliminato un container 
 
-- <code> > docker rmi *nome:tag* </code>
+- ` > docker rmi *nome:tag* `
 viene eliminata un' immagine
 
-- <code> > docker run *nome:tag comando* </code>
+- ` > docker run *nome:tag comando* `
 avvia un container partendo da un' immagine 
-    - <code> --rm </code> al termine dell'esecuzione, elimina il container 
-    - <code> --name *nome* </code> scegli il nome del container
-    - <code> -it </code> permette di usare la tastiera all'interno del container
-    - <code> -d </code> avvia il container come demone (in background) 
-    - <code> -v *CartellaLocale:CartellaContainer* </code > monta un volume all'interno del container
-    - <code> -p *PortaLocale:PortaContainer* </code> permette di usare il port forwarding 
-    - <code> -e *valiable=valore* </code> imposta una variabile d'ambiente all'interno del container
+    - ` --rm ` al termine dell'esecuzione, elimina il container 
+    - ` --name *nome* ` scegli il nome del container
+    - ` -it ` permette di usare la tastiera all'interno del container
+    - ` -d ` avvia il container come demone (in background) 
+    - ` -v *CartellaLocale:CartellaContainer* </code > monta un volume all'interno del container
+    - ` -p *PortaLocale:PortaContainer* ` permette di usare il port forwarding 
+    - ` -e *valiable=valore* ` imposta una variabile d'ambiente all'interno del container
 
-- <code> > docker kill *nome/IDcontaier* </code>
+- ` > docker kill *nome/IDcontaier* `
  conclude l'esecuzione di un container
 
-- <code> > docker logs *nome/IDcontaier* </code>
+- ` > docker logs *nome/IDcontaier* `
 visualizza gli ultimi log di un container
-    - <code> -f </code> continua a visualizzarli in tempo reale
+    - ` -f ` continua a visualizzarli in tempo reale
 
-- <code> > docker exec *nome/IDcontainer comando* </code>
+- ` > docker exec *nome/IDcontainer comando* `
 entra in un container già attivo
-    - <code> -it </code>  permette di usare la tastiera all'interno del container
+    - ` -it `  permette di usare la tastiera all'interno del container
 
-- <code> > docker inspect *IDcontainer* </code>
+- ` > docker inspect *IDcontainer* `
 visualizza tutte le info di un container, ance l'IP interno
 
-- <code> > docker build *pathDockerfile* </code>
+- ` > docker build *pathDockerfile* `
 creo la mia immagine dal Dockerfile
-    - <code> -t nome </code> assegna nome all'immagine
-    - <code> --no-cache </code> in fase di build non utilizza i dati salvati nella chache 
+    - ` -t nome ` assegna nome all'immagine
+    - ` --no-cache ` in fase di build non utilizza i dati salvati nella chache 
 
-- <code> > docker login </code>
+- ` > docker login `
 login nel tuo account dockerhub, così da poter pubblicare le  immagini sul proprio repository
 
-- <code> > docker push *nomeDatoDalSito:tag* </code>
+- ` > docker push *nomeDatoDalSito:tag* `
 permette di pubblicare un immagine sul tuo repository
 
-- <code> > docker tag *nome:tag nuovoNome:tag* </code>
+- ` > docker tag *nome:tag nuovoNome:tag* `
 aggiunge un nuovo nome all'immagine
 
-- <code> > docker-compose up </code>
+- ` > docker-compose up `
 cerca il file "**docker-compose.yml**" e avvia tutto il suo contenuto
 
-- <code> > docker-compose down </code>
+- ` > docker-compose down `
 conclude l'esecuzione tutti i pricessi avviati dal docker-compose 
 
 ---
 
 ## Direttive Dockerfile
 
-- <code> FROM *immagine:tag* </code>  immagine di partenza
+- ` FROM *immagine:tag* `  immagine di partenza
 
-- <code> RUN *istruzione*	</code> esegue l'istruzione durante la build
-    - <code> -y </code> dice "yes" a tutte le direttive durante le installazioni
+- ` RUN *istruzione*	` esegue l'istruzione durante la build
+    - ` -y ` dice "yes" a tutte le direttive durante le installazioni
 
-- <code> COPY *nomeFile* *pathNelContainer* </code> copia un file nel container
-- <code> ENTRYPOINT *comando* </code> esegue il comando appena viene avviato il container
+- ` COPY *nomeFile* *pathNelContainer* ` copia un file nel container
+- ` ENTRYPOINT *comando* ` esegue il comando appena viene avviato il container
 
 ---
 
 ## Esempio di docker-compose
-File: ***docker-compose.yml*** <br>
-<code> version: "2.2" </code> (senza quest'istruzione non funziona niente nelle nuove versioni) <br>
-<code> services: </code> <br>
-|&emsp; <code> mioServizio: </code> <br>
-|&emsp;|&emsp; <code> image: *immagine* </code> (immagine da usare) <br>
-|&emsp;|&emsp; <code> ports:  </code> (port forwarding) <br>
-|&emsp;|&emsp;|&emsp; <code> - *8080:80* </code> <br>
-|&emsp;|&emsp;|&emsp; <code> - *8081:443* </code> <br>
-|&emsp;|&emsp; <code> volumes: </code> <br>
-|&emsp;|&emsp;|&emsp; <code> - *RelativePath:pathNelContainer*  </code > <br>      	
-|&emsp; <code> altroServizio: </code> <br>
-|&emsp;|&emsp; <code> build: pathDockerfile </code>(in alternativa alla direttiva "image") <br>
-|&emsp;|&emsp; <code> ports: </code> <br>
-|&emsp;|&emsp;|&emsp; <code> - *3306:3306* </code> <br>
-|&emsp;|&emsp;	 <code> volumes: </code> <br>
-|&emsp;|&emsp;|&emsp; <code> - *RelativePath:pathNelContainer* </code><br>
+File: ***docker-compose.yml*** 
+` version: "2.2" ` (senza quest'istruzione non funziona niente nelle nuove versioni) 
+` services: ` 
+     ` mioServizio: ` 
+         ` image: *immagine* ` (immagine da usare) 
+         ` ports:  ` (port forwarding) 
+             ` - *8080:80* ` 
+             ` - *8081:443* ` 
+         ` volumes: ` 
+             ` - *RelativePath:pathNelContainer*  </code >       	
+     ` altroServizio: ` 
+         ` build: pathDockerfile `(in alternativa alla direttiva "image") 
+         ` ports: ` 
+             ` - *3306:3306* ` 
+        	 ` volumes: ` 
+             ` - *RelativePath:pathNelContainer* `
 
-<br><br>
+
 by ***Leonardo Canu*** *5B-IA*
