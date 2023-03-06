@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TPSIT/Comandi-Docker.md",
+                "file": "Informatica/Php.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TPSIT/Comandi-Docker.md",
+                "file": "Informatica/Php.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TPSIT/Comandi-Docker.md",
+                "file": "Informatica/Php.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TPSIT/Comandi-Docker.md"
+                "file": "Informatica/Php.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "76cea9b36cbe80ff",
   "lastOpenFiles": [
+    "TPSIT/Comandi-Docker.md",
     "TPSIT/Angular.md",
     "Storia/La-Rivoluzione-Russa.md",
     "Storia/La-Prima-Guerra-Mondiale.md",
@@ -155,7 +156,6 @@
     "Sistemi-e-Reti/La-Crittografia.md",
     "Informatica/Php.md",
     "Informatica/Database-e-Normalizzazione.md",
-    "TPSIT/Comandi-Docker.md",
     "TPSIT",
     "Storia",
     "Sistemi-e-Reti",
