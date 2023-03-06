@@ -23,13 +23,13 @@ Esemprio di database con uno schema ER, con anche le relazioni
     ALUNNO }o--|| CLASSE : HA
     ALUNNO {
         INT ID
-        VARCHAR() Nome
-        VARCHAR() Cognome
+        VARCHAR Nome
+        VARCHAR Cognome
     }    
     CLASSE {
         INT ID
         INT Anno
-        VARCHAR() Sezione
+        VARCHAR Sezione
     }
 ```
 > leggenda delle cardinalità :
