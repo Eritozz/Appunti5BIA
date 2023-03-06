@@ -18,13 +18,37 @@ Esiste anche un sistema di **rollback**, che permette far di tornare il database
 ## Lo schema ER (entità e relazione)
 Esemprio di database con uno schema ER, con anche le relazioni
 
+```mermaid
+  erDiagram
+    ALUNNO }o--|| CLASSE : HA
+    ALUNNO {
+        INT ID
+        VARCHAR() Nome
+        VARCHAR() Cognome
+    }    
+    CLASSE {
+        INT ID
+        INT Anno
+        VARCHAR() Sezione
+    }
+```
+> leggenda delle cardinalità :
+> - |o è (0,1)
+> - || è (1,1)
+> - }o è (0,N)
+> - }| è (1,N) 
 
 ---
 
 ## Lo schema logico
-Esempio del database soprastante con uno schema logico
-`Studente: ID, Nome, Cognome, IDClasse;`
-`Classe: ID, Anno, Sezione;`
+Esempio del database soprastante con uno schema logico<br>
+`Studente: ID, Nome, Cognome, IDClasse;`<br
+`Classe: ID, Anno, Sezione;`<br
+
+Ci sono diversi casi in cui 2 tabelle si devono "fondere" in base alla relazione: <br>
+- 1 a N: la chiave della tabella "N" e gli attributi della relazione vengono messe anche in quella "1".
+- N a N: si crea una terza tabella, che contiere le chiavi delle 2 tabelle e gli attributi della relazione.
+- 1 a 1: le tabelle si fondono in una sola, completamente.    
 
 ---
 
