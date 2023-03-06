@@ -6,7 +6,7 @@ Il php è un linguaggio inetrpretato lato server che permette la generazione din
 Tutto il codice php deve essere posto all'interno del tag speciale `<?php` e `?>`
 
 `<?php`
-    `echo "Hello World!";`
+&emsp;`echo "Hello World!";`
 `?>` 
 
 ---
@@ -68,9 +68,11 @@ Per effettuare una query si usa invece
 `$risultato = $connessione->query($richiesta);`
 Il metodo `query()` prende in ingresso una stringa e il risultato della query viene salvato nella variabile `$risultato`che risulterà come un array bidimenzionale associativo. Per poter scorrere e visualizzare il suo contnuto si usa il metodo `fetch_assoc()`: si tratta di un metodo con un iteratore interno che ritorna una riga alla volta, sottoforma di array associativo, con i nomi dei campi uguali a quelli dei campi del database. Una volta arrivato all'ultima riga, il valore di ritorno sarà `null`. Per questo motivo la maniera più efficace per utilizzare `fetch_assoc()` è quello di inserirla all'interno di un ciclo `while` e di mettere ogni riga all'interno di una variabile:
 `while($row = $risultato->fetch_assoc()) {`
-    `echo $row['colonna']`
+&emsp;`echo $row['colonna']`
 `}`
 
 
-
+<br><br>
 by ***Leonardo Canu*** *5B-IA*
+
+&emsp;
