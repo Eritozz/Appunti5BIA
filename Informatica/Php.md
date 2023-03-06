@@ -5,9 +5,9 @@ Il php è un linguaggio inetrpretato lato server che permette la generazione din
 
 Tutto il codice php deve essere posto all'interno del tag speciale `<?php` e `?>`
 
-`<?php`
-&emsp;`echo "Hello World!";`
-`?>` 
+`<?php`<br>
+&emsp;`echo "Hello World!";`<br>
+`?>` <br>
 
 ---
 
@@ -19,12 +19,12 @@ ma il suo valore può essere anche `$var = true;`
 ---
 
 ## Echo
-Echo è una direttiva che permette di convertire una stringa in tag e linee html.
-`echo "<h1> Title </h1>";`
-La concatenazione avviene tramite i `.` invece che con i `+`.Si possono ovviamente concatenare anche le variabili: 
-`$var = 'Hello';` 
-`echo $var . "World";`
-Output: `Hello World`
+Echo è una direttiva che permette di convertire una stringa in tag e linee html.<br>
+`echo "<h1> Title </h1>";`<br>
+La concatenazione avviene tramite i `.` invece che con i `+`.Si possono ovviamente concatenare anche le variabili: <br>
+`$var = 'Hello';` <br>
+`echo $var . "World";`<br>
+Output: `Hello World`<br>
 
 ---
 
@@ -34,19 +34,16 @@ Per il resto, la sintassi del php è molto simile a quella già studiata negli a
 ---
 
 ## I metodi GET e POST
-L'unico modo per passare dei parametri da una pagina all'altra, in php è quellodi i utilizzare i metodi **GET** e **POST** nei form.
-Il metodo GET permette di passare i parametri in chiaro, **nella URL**.
-Il metodo POST li passa in maniera criptata, **senza vsualizzarli nella URL**.
-I valori passati con i metodi POST e GET vengono inseriti all'interno di un array associativo, con l'indice che coincide con la stringa all'interno del name dell'elemendo nella pagina precedente.
+L'unico modo per passare dei parametri da una pagina all'altra, in php è quellodi i utilizzare i metodi **GET** e **POST** nei form.<br>Il metodo GET permette di passare i parametri in chiaro, **nella URL**.<br>Il metodo POST li passa in maniera criptata, **senza vsualizzarli nella URL**.<br>I valori passati con i metodi POST e GET vengono inseriti all'interno di un array associativo, con l'indice che coincide con la stringa all'interno del name dell'elemendo nella pagina precedente.<br>
 
 *index.php*
-`<form action="ProssimaPagina.php" method="post">`
-    `<input type="text" name="Nome">`
-`</form>`
-*ProssimaPagina.php*
-`<?php`
-    `echo $_GET['Nome'];` (per il metodo POST l'array sarà `$_POST[]`)
-`?>`
+`<form action="ProssimaPagina.php" method="post">`<br>
+&emsp;`<input type="text" name="Nome">`<br>
+`</form>`<br>
+*ProssimaPagina.php*<br>
+`<?php`<br>
+&emsp;`echo $_GET['Nome'];` (per il metodo POST l'array sarà `$_POST[]`)<br>
+`?>`<br>
 
 ---
 
@@ -66,9 +63,10 @@ Per instaurare la connessione ad un database bisogna creare un oggetto mysql e p
 Per effettuare una query si usa invece 
 `$richiesta = "SELECT tabella.* FROM tabella";`
 `$risultato = $connessione->query($richiesta);`
-Il metodo `query()` prende in ingresso una stringa e il risultato della query viene salvato nella variabile `$risultato`che risulterà come un array bidimenzionale associativo. Per poter scorrere e visualizzare il suo contnuto si usa il metodo `fetch_assoc()`: si tratta di un metodo con un iteratore interno che ritorna una riga alla volta, sottoforma di array associativo, con i nomi dei campi uguali a quelli dei campi del database. Una volta arrivato all'ultima riga, il valore di ritorno sarà `null`. Per questo motivo la maniera più efficace per utilizzare `fetch_assoc()` è quello di inserirla all'interno di un ciclo `while` e di mettere ogni riga all'interno di una variabile:
-`while($row = $risultato->fetch_assoc()) {`
-&emsp;`echo $row['colonna']`
+Il metodo `query()` prende in ingresso una stringa e il risultato della query viene salvato nella variabile `$risultato`che risulterà come un array bidimenzionale associativo.<br>
+ Per poter scorrere e visualizzare il suo contnuto si usa il metodo `fetch_assoc()`: si tratta di un metodo con un iteratore interno che ritorna una riga alla volta, sottoforma di array associativo, con i nomi dei campi uguali a quelli dei campi del database. Una volta arrivato all'ultima riga, il valore di ritorno sarà `null`. Per questo motivo la maniera più efficace per utilizzare `fetch_assoc()` è quello di inserirla all'interno di un ciclo `while` e di mettere ogni riga all'interno di una variabile:<br>
+`while($row = $risultato->fetch_assoc()) {`<br>
+&emsp;`echo $row['colonna']`<br>
 `}`
 
 
