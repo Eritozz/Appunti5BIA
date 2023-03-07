@@ -122,5 +122,5 @@ I trattati principali firmati al termine della guerra furono:
 ## La vittoria mutilata
 A causa del principio di autodeterminazione dei popoli **i territori della Dalmazia vennero assegnati alla Jugoslavia**. Si espansero diverse delusioni e risentimenti pochè questa decisione **andava contro i trattati di Londra**. Nonostrante **l'annessione del Trentino e dell'Alto Adige** da questa questa infelice conlusione nacque il mito della ***vittoria mutilata***: si credeva che i soldati italiani non fossero stati ricompensati adeguatamente per i loro servizi a fianco dell'intesa.
 
-
+<br><br>
 by ***Leonardo Canu*** *5B-IA*

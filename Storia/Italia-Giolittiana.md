@@ -98,5 +98,5 @@ durante i suoi mandati dovette gestire le ambizioni della **borghesia industrial
 Il maggiore insuccesso dell'opera Giolittiana fu, invece, il **fallimento nella questione Meridionale**. Giolitti ottenne legami con i politici del sud **non tramite gli ideali**, ma tramite la **concessione di favori**. In più i meridionalisti non perdonarono mai **l'utilizzo della forza contro i brsccianti del Sud**.<br>
 La falla politica di Giolitti era quella di essersi comportato in maniera fortemente moderata: metodo inadatto, secondo gli studiosi, all'epoca dei partiti di massa. Nonostante ciò non si può negare la buona riuscita degli interventi di riconciliazione e del raggiungimento del **Patto Gentiloni** con i cattolici.
 
-
+<br><br>
 by ***Leonardo Canu*** *5B-IA*
