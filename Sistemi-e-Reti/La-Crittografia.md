@@ -38,14 +38,12 @@ Esistono due categorie di algoritmi crittografici:
 ---
 
 ## Crittografia simmetrica VS Crittografia asimmetrica
-!!! FARE UNA PICCOLA TABELA DAI
-La crittografia ***Simmetrica*** 
-**PRO**: usando una chiave sola, le operazioni di cifratura e decifratura sono più veloci 
-**CONTRO**: forte problema della distribuzione delle chiavi private
 
-La crittografia ***Asimmetrica***
-**PRO**: dalla chiave pubblica non si può risalire alla chiave privata. Possiamo quindi distribuirla in modo sicuro. Inoltre ad ogni chiave pubblica corrisponde una sola privata.
-**CONTRO**: le operazioni di cifratura e decifratura sono molto più lente
+
+||La crittografia ***Simmetrica*** |La crittografia ***Asimmetrica***|
+|---|---|---|
+|*PRO*|Usando una chiave sola, le operazioni di cifratura e decifratura sono più veloci |Dalla chiave pubblica non si può risalire alla chiave privata. Possiamo quindi distribuirla in modo sicuro. Inoltre ad ogni chiave pubblica corrisponde una sola privata.|
+|*CONTRO*|Forte problema della distribuzione delle chiavi private|Le operazioni di cifratura e decifratura sono molto più lente|
 
 ---
 
