@@ -45,8 +45,6 @@ Esistono due categorie di algoritmi crittografici:
 |*PRO*|Usando una chiave sola, le operazioni di cifratura e decifratura sono più veloci |Dalla chiave pubblica non si può risalire alla chiave privata. Possiamo quindi distribuirla in modo sicuro. Inoltre ad ogni chiave pubblica corrisponde una sola privata.|
 |*CONTRO*|Forte problema della distribuzione delle chiavi private|Le operazioni di cifratura e decifratura sono molto più lente|
 
----
 
-
-
+<br><br>
 by ***Leonardo Canu*** *5BIA*
