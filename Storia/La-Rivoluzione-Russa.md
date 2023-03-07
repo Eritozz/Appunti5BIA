@@ -62,12 +62,41 @@ Inoltre Lenin dovette affrontare anche la lotta di classe tra i contadini poveri
 Nel 1918, si formano diversi nuclei di militari, guidati da sostenitori ed ex generali dello Zar. Queste forze furono anche finanziate da Francia, Italia, Inghilterra e USA, che temevano la clobalizzazione dell'ideologia bolscevica.<br>
 I Bolscevichi giustiziano Nicola II e tutta la sua famiglia avviando così il periodo detto **Terrore Rosso**: una brutale guerra civile, dove ogni oppositore alle truppe rosse (i soldati filo-bolscevichi) vengono uccisi o catturati. Inoltre le truppe Rosse furono aiutati anche dai contadini dei territori conquistati da quelle bianche: tutto sommato il regime bolscevico er meglio di quello zarista. <br>
 Durante questo periodo le truppe Rosse affrontarono diversi attacchi, portati non solo da quelle bianche, ma anche da piccole repubbliche indipendentiste Ucraine e Bielorussie. Infine subirono anche un attacco da parte della Polonia: insoddisfatta dall'esito del **Trattato di Versailles** sperava di poter prendere qualche territorio da una Russia consumata dalla guerra civile. Ma i Russi, mossi da un nuovo orgoglio patriottico riuscirono a respingere l'armata polacca e ogni disputa si risolse con la **Pace di Riga**.  
-Quello polacco **fu l'ultimo tentativo**, interno ed esterno, **di abbattere il regime Bolscevico.** 
-Durante la rivoluzione morirono ben 7 milioni di morti. 
+
+> Quello polacco **fu l'ultimo tentativo**, interno o esterno, **di abbattere il regime Bolscevico.** 
+
+Durante la rivoluzione russa morirono ben 7 milioni di morti. 
 
 ---
 
-## Il consolidamento del regime Bolscevico
+## Il consolidamento del regime bolscevico
+La scelta di chiamarsi **Partito Comunista** segnò il distaccamento definitivo dalle radici socialdemocratiche. <br>
+Per celebrare questo cambiamento, Lenin decise di creare una nuova internazionale comunista, detta **Komintern**.
+I questa maniera, all'interno di tutti i partiti socialisti si crearono diverse spaccature tra i riformisti e rivoluuzionari. Questa reazione a catena portò alla creazione di **diversi partiti cominusti in europa**, gestiti proprio dai socialisti rivoluzionari (o massimalisti). <br>
+Purtroppo, contro gli auspici ci Lenin, **nessuna fiamma rivoluzionaria si accese in occidente**, anzi, i partiti comunisti **rimasero sempre dei partiti d'opposizione**. In questo modo la Russia si ritrovò da sola, anche a causa del cosìdetto "**cordone sanitario**": i paesi occidentali offrirono sostegno militare, economico e politico ai paesi anticomunisti confinanti con la Russia, con l'obbiettivo di isolarla e trattando il **Comunismo quasi come una piaga**. <br>
+A causa del forte controllo bolscevico, **la produzione agricola ebbe un forte crollo**, che portò rapidamente ad una bruttissima carestia. Inoltre anche **la produzione Industriale ebbe un suo tracollo**. Il malcontento che si stava creando ebbe una sua manifestazione: dei marinai a **Kornstadt** sulla costa baltica si ribellarono alla politica governativa, ma il loro ammutinamento fu represso nel sangue. Stessa sorte toccò ad un insurrezione contadina, dove lo stesso generale del caso Kornstadt ordinò di ricorrere ai gas tossici, alle esecuzio e ai campi di prigionia.<br>
+I leader comunisti credettero acnhe che la chiesa ortodossa fosse un forte sostenitore antirovoluzionario, così **arristarono il patriarca** e diversi preti e vescovi.
 
+> In questa maniera il regime comunista **impresse la sua autorità dittatoriale**, al quale affiancò un enorme e complessa **opera di propaganda**, al fine di **giustificare le proprie azioni**.
+
+---
+
+## La nuova politica economica
+
+Lenin capì che una situazione di **tale tensione non poteva essere sostenuta a lungo**: adesso il regime bolscevico doveva restituire **migliori condizzioni di vita ai Russi**.<br>
+Impose così la "Nuova politica economica" detta **Nep** con i seguenti punti cardine:
+- sotto l'ala dello stato passavano la gran parte delle industrie più grandi
+- rimanevano private le piccole e medie imprese
+- si riammetteva il libero commercio
+- ri reitroduceva **il rublo** e si riattivava l'attività creditizia delle banche.
+
+In questa maniera si crava una tipologia mista, nella quale lo stato era l'attore principale, ma che lasciava spazio ai piccoli ideali capitalisti.<br>
+Infatti si credeva che il profitto individuale serviva a raggungere quello che aveva teorizzato Marx.
+In questa maniera la Nep sembrò ottenere i propri profitti: **l'economia russa cominciò risollevarsi**.
+
+## L'Urss
+Nel 1922 il sistema collante per le diverse etnie fu il **federalismo**: si istituì così **l'Unione delle repubbliche socialiste sovietiche**.
+Venne anche emanata una costituzione che **garantiva l'autodeterminazione dei popoli**, concedendo **una notevole autonomia**. La nuova *Urss* faceva dei soviet il perno su cui girava l'intero apparato isituzionale e **il Congresso dei *soviet* dell'Unione**  era il principale organo rappresentativo. Si accentuava anche la partecipazione operaia, che aveva molta rappresentanza all'interno dei soviet, così da concentrarsi sull'accellerazione della **dittatura del proletariato**.<br>
+Il governo avava una complicata architettura piramidale, che comunque non nascondeva che **l'unico vero e indiscutibile detentore del potere** era il **Partito Comunista dell'Unione Sovietica** (Pcus), dove comunque i dirigenti elaboravano la politica statale, senza partecipazione dal basso.<br> A rendere di nuovo instabile questa situazione giunse la morte di Lenin, al seguito della quale si aprì un nuovo e completamente nuovo capitolo nella storia dell'Urss.
 <br><br>
 by ***Leonardo Canu*** *5B-IA*
