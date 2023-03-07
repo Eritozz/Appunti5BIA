@@ -24,7 +24,7 @@
 - <code>Sineddoche</code>quando si esprime un immagine per mezzo di un altra
 - <code>Personificazione</code> boh, veramente la devo spiegare?
 - <code>Sinestesia</code> quando 2 concetti accostati fanno parte di due sfere sensoriali differenti
-- <code>Antonomasia</code> altro tipo di sostituzione che non spiegare perbene ma è facile dai
+- <code>Antonomasia</code> altro tipo di sostituzione che non so spiegare perbene ma è facile dai
 - <code>Ipallage</code> quando riferisci grammaticalmente una parte della frase a una parte diversa da quella a cui dovrebbe riferirsi semanticamente.
   - tipo: <code>di foglie un cader fragile</code> <br>dove *fragile* dovrebbe riferirsi a *foglie* e non a *cader*
 - <code>Iperbole</code> quando si aumenta fino ad esagerare un concetto o un significato
