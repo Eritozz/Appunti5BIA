@@ -38,13 +38,24 @@ Esistono due categorie di algoritmi crittografici:
 ---
 
 ## Crittografia simmetrica VS Crittografia asimmetrica
-
-
 ||La crittografia ***Simmetrica*** |La crittografia ***Asimmetrica***|
 |---|---|---|
 |*PRO*|Usando una chiave sola, le operazioni di cifratura e decifratura sono più veloci |Dalla chiave pubblica non si può risalire alla chiave privata. Possiamo quindi distribuirla in modo sicuro. Inoltre ad ogni chiave pubblica corrisponde una sola privata.|
 |*CONTRO*|Forte problema della distribuzione delle chiavi private|Le operazioni di cifratura e decifratura sono molto più lente|
 
+
+---
+
+## Caratteristiche della crittografia asimmetrica
+- Non è possibile **decifrare e cifrare** con la stessa chiave
+- Cifratura e decifratura si applicano con la stessa coppia di chiavi
+- Si deeve sempre cifrare con la chiave pubblica del destinatario
+- Il messaggio deve essere certificato (applicare un digest) con la propria chiave privata
+
+---
+
+## Funzioni di Hash
+Le funzioni di **HASH** trasformano la un qualsiasi testo a **lunghezza arbitraria** in uno a **lunghezza fissa**, inoltre ad un attacco di forza bruta non è possibile risalire al testo da un valore di *HASH*.
 
 <br><br>
 by ***Leonardo Canu*** *5BIA*
