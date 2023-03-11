@@ -10,9 +10,9 @@ Questa situazione di *tenzione sociale* e di *confusione istituzionale* tocca il
 
 ## Le tre questioni
 I problemi con i quali giolitti dovette aver a che fare nel primo decennio del '900 erano: 
-**- [La questione meridionale](#meridionale) -**
-**- [La questione cattolica](#cattolica) -** 
-**- [La questione sociale](#sociale) -** 
+**- [La questione meridionale](#meridionale) -**<br>
+**- [La questione cattolica](#cattolica) -** <br>
+**- [La questione sociale](#sociale) -**
 
 - ###  <a id="meridionale"></a>  La questione Meridionale
 Alle soglie del '900, in meridione, l'industria non aveva ancora preso piede: mancavano le infratrutture (porti, ferrovie e strade) che non permettevano di creare una rete commerciale competitiva.<br>
