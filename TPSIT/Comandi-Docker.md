@@ -60,14 +60,14 @@ File: *docker-compose.yml* <br>
 <code>services:</code> <br>
 &emsp;<code>mioServizio:</code> (il nome è a piacere) <br> 
 &emsp;&emsp;<code>image: *immagine*</code> (immagine da usare) <br> 
-&emsp;&emsp;<code>ports: </code> (port forwarding) <br>  
+&emsp;&emsp;<code>ports: </code> (port forwarding) <br>
 &emsp;&emsp;&emsp;<code>- *8080:80*</code>(portaHost:portaContainer)<br>
 &emsp;&emsp;&emsp;<code>- *8081:443*</code> <br>
 &emsp;&emsp;<code>volumes:</code> <br>
 &emsp;&emsp;&emsp;<code>- *RelativePath:pathNelContainer*</code> <br>  	
 &emsp;<code>altroServizio:</code> <br> 
 &emsp;&emsp;<code>build: *pathDockerfile*</code>(in alternativa alla direttiva "image") <br>
-&emsp;&emsp;<code>ports:</code> 
+&emsp;&emsp;<code>ports:</code> <br>
 &emsp;&emsp;&emsp;<code>- *3306:3306*</code> <br> 
 &emsp;&emsp;<code>volumes:</code> <br>
 &emsp;&emsp;&emsp; <code>- *RelativePath:pathNelContainer*</code>
