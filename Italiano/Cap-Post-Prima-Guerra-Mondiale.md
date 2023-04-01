@@ -1,4 +1,4 @@
-# Le nuove ideologie nel '900
+# Le nuove ideologie nel '900 e le Avanguardie
 ## Il 1903
 Il 1903 è un anno particolarmente importante per la sfera letteraria italiana: nascono prorio in quest'anno le riviste "*Leonardo*" e "*Il Regno*" che segnano la **prima affermazione dei *giovani* della nuova generazione letteraria**. <br>
 Sempre in questo anno escono i primi libri di impronta **crepuscolare**, la nuova tendenza di inizio novecento. <br>
