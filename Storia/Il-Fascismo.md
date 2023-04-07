@@ -46,7 +46,42 @@ Nonostante ciò rimase molto malcontento:
 - i lavoratori erano convinti che l'occupazione delle fabbriche fosse stata inproduttiva
 - la borghesia temeva sempre di più la rivoluzione
 
-In oltre in tutto ciò era presente una crescente crisi, a causa della diminuzione della produzione delle fabbriche e dell'aumento della disoccupazione.
+In oltre in tutto ciò era presente una crescente crisi, a causa della diminuzione della produzione delle fabbriche e dell'aumento della disoccupazione.<br>
+
+Nasce anche il partito comunista italiano, che si appoggia al **[Komintern](./La-Rivoluzione-Russa.md/#komintern)**.<br>
+
+Ben presto i comunisti arrivarono allo scontro in piazza con gli esponenti della destra, riuniti nel movimento **fascista**.
+I Fasci Italiani di combattimento erano stati fondati da Mussolini, inizialmente ricevettero pochi voti, a causa di un programma che mescolava elementi in conflitto tra loro.<br>
+
+Il bacino dal quale accingeva era la piccola borghesia, che aveva paura dell'aumento del potere socialista. **Così Mussolini decise di sfruttare proprio questa paura** e di auto-eleggersi **portabandiera del ritorno all'ordine**.  <br>
+
+Sfruttando l'omertà dei politici dell'esercito impauriti dalla sinistra, Mussolini decise di abbandonare il programma politico e di creare delle scquadre punitive che si impegnavano in violente spedizioni punitive contro la sinistra. Questo fenomeno è detto **Squadrismo**.<br>
+
+Lo squadrismo ebbe un ampio supporto economico dei grandi proprietari guerrieri e dagli industriali. In oltre, i membri delle Camice Nere ricevettero crescenti adesioni. **Giolitti e gli altri esponenti del vecchio parlamento assunsero il rischio di tollerare lo Squadrismo, con la convinzione che si sarebbe esaurito e che sarebbe stato riassorbito nella normale vita politica**.<br>     
+
+I calcoli di Giolitti si rivelarono errati e l'estrama sinistra e l'estrema destra non si annullarono a vicenda.
+
+## L'ultimo anno dei governi Liberali
+Giolitti decise quindi di far entrare alcuni fascisti in parlamento, che nonostante ciò mantennero le loro azioni su un **Doppio Binario** (una parte parlamentare regolarizzata e una extraparlamentare fortemente violenta e brutale).<br>
+
+Alle elezioni del 1921 il partito cattolico si frafforzò, e i Fasci si riorganizzarono: si trasformarono del **Partito nazionale Fascista** che **rinunciò al repubblicanesimo e rigettò il laicismo**.<br>
+
+> Il rafforzamento dello stato, amore della patria, rispetto delle tradizioni e della famiglia e il liberismo economico divennero le nuove parole d'ordine di Mussolini (mi ricorda qualcosa...). <br>
+
+L'unica speranza per contrastare il partito fascista era che i cattolici e i socialisti si mettessero d'accordo, ma ciò non accadde.<br>
+
+Mussolini comprese che la frammentazione del parlamento era tale da non permettere loro di non reagire, così nel 1922 venne annunciata la formazione di un **quadrumvirato**, che aveva il compito di mobilitare la base del partito così che Mussolini assumesse il potere.<br>
+
+Era di fatto l'annuncio di un colpo di stato, e la **Marcia su Roma** fu usata come arma di pressione e Vittorio Emanuele III si rifiutò di firmare lo stato d'assedio (probabilmente perchè spaventato anche lui dal comunismo e con la speranza che il doppio binario si riassorbisse)  e *concesse a Mussolini la presidenza del Consiglio*. Così Mussolini ottenne il potere con il minimo sforzo, ricevendolo dalle mani del sovrano, nel rispetto dello Statuto Albertino.<br>
+
+Proprio per alimentare la speranza del riassorbimento, Mussolini decise di creare un govrno con nazionalisti, liberali, popolari, indipendenti e rappresentanti delle forze armate. ciò rappresentava una fase intermedia per l'instaurazione di un potere autoritario.<br>
+
+Mussolini legalizzò l'azione fascista e si appoggiò alle eazioni degli squadristi, inquadrando nella **Milizia volontaria per la sicurezza nazionale**.
+I fascisti vennero messi a capo dei settori chiave dell'amministrazione pubblica e istituì il **Gran consiglio del Fascismo**, che assunse compiti che spettavano sia al parlamento che al governo.<br>
+
+Inoltre venne riorganizzata la scuola, grazie alla **Riforma Gentile** che la suddivideva in maniera gerarchica, separando la formazione professionale e tecnica da quella liceale ed esaltando la cultura umanistica da quella scientifica. Inoltre tentò di uniformare al fasciscmo anche la cultura universitaria, redigendo il *Manifesto degli intellettuali fascisti*, al quale si contrappose il corrispettivo documento antifascista redatto da Croce.<br>
+
+Tramite l'utilizzo della propaganda e dei nuovi mezzi di comunicazione, come la radio, Mussolini intraprese anche un'opera di condizionamento della cultura popolare, cercando di forgiare un perfetto fascista. 
 
 
 <br><br>
