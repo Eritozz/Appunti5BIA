@@ -1,9 +1,9 @@
 # Il primo dopoguerra in Europa e nei domini coloniali
 ## Gli effetti della prima guerra mondiale in Europa
 Gli effetti della prima guerra mondiale si possono dividere in 3 macrocategorie:
-- [gli effetti sociali](#economici)
+- [gli effetti sociali](#sociali)
 - [gli effetti politici](#politici) 
-- [gli effetti economici](#sociali)
+- [gli effetti economici](#economici)
 
 ### <a id="economici"></a> Gli effetti economici
 - **Si ha la necessità di una riconversione Industriale**
@@ -37,7 +37,7 @@ Gli effetti della prima guerra mondiale si possono dividere in 3 macrocategorie:
     - iniziano così i "**Mandati Inglesi**"
     - iniziano anche **gli scontri in Palestina**
 
-## L'insoddisfazione dei trattati di pace in Italia e il Trattato di Rapallo 
+## L'insoddisfazione dei trattati di pace in Italia e il Trattato di Rapallo <a id="rapallo"></a>
 Un evento molto importante accadde il 12 settenbre 1919, 2 giorni dipo la firma del trattato di *Sait-Germain*, quando D'Annunzio si pose alla guida di 9000 soldati e occupò la citta di *Fiume*, reagendo a quella che lui definì "vittoria mutilata".<br>
 La questione fu risolta con il *Trattato di Rapallo*: Fiume dventava città libera e l'Italia otteneva la sovranità si Istria, Monte Nevoso e Zara.
 
@@ -68,7 +68,7 @@ Nonostante i buoni risultati, rimasero i comportamenti minacciosi dei partiti di
 Negli anni di weimar, la Germania costutuì il fulcro della cultura e del cambiamento artistico mondiale, anche per quanto riguarda l'emancipazione femminile.  
 
 
-## Il biennio rosso
+## Il biennio rosso <a id="biennio_rosso"></a>
 il maggiore momento di tensione sociale si raggiunge nel 1919-1920, evento di matrice *proletaria*. Sollecitate dall'esempio della [rivoluzione Russa](./La-Rivoluzione-Russa.md), le agitazioni operaie, con scioperi, cortei e ocuppazioni di fabbriche, si estesero in tutta europa, alimentando le paure di un **contagio bolscevico**.
 
 ## In Turchia
@@ -77,3 +77,6 @@ il maggiore momento di tensione sociale si raggiunge nel 1919-1920, evento di ma
     - in particolare contro la perdita di possedimenti dell'ex impero Ottomano
 - sotto Ataturk nasce in forte stato Turco occidentalizzato, che ottiene anche l'apprivazione Europea.
 - Tutto ciò accade a spese degli armeni, che subiscono anche una *diaspora* (dispersione della popolazione in una vasta area)
+
+<br><br>
+by ***Leonardo Canu*** *5B-IA*
