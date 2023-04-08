@@ -12,7 +12,6 @@ Anche l'Italia visse il **biennio rosso** con un susseguirsi di agitazioni e sco
 
 >Era chiaro che serviva una svolta che portasse l'italia **dal liberalismo ottocentesco alla democrazia**
 
-
 Inoltre si formò, per la classe dirigente, si generò una grande crisi e un forte ristagno economico, caratterizzato dalla *necessità di una riconversione dell'industria bellica*. Una volta cessati gli aiuti economici degli USA, l'Italia vide l'inflazione aumentare in maniera vertiginosa.<br>
 Si vide anche una divisione all'interno della borghesia:
 - nella piccola e media borghesia si creò un insoddisfazione crescente, a causa della perdita del potere d'acquisto e delle richieste delle masse operaie e contadine.
