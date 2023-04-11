@@ -58,8 +58,17 @@ La natura condivisa delle VPN implica dover affrontare tre grossi problemi:
 Le reti VPN possono essere classificate in base ai protocolli che utilizzano e al
 grado di sicurezza che garantiscono, in tre categorie:
 - **Trusted VPN**: si affida molto al proprio Internet Service Provider
+    - non utilizzano protocolli che permettano la cifratura e il conseguente tunneling dei dati trasmessi, pertanto la riservatezza dei dati è controllata dall'ISP.
+    - L’ISP assicura una qualità del servizio garantendo che nessun altro possa usufruire del canale assegnato a una determinata VPN in un determinato momento.
+    - L’ISP si fa carico anche della configurazione e della responsabilità dei dati e della progettazione della rete VPN richiesta dall’azienda.
 - **Secure VPN**: si affida molto ai protocolli per la sicurezza
+    - Le Secure VPN utilizzano protocolli che consentono la cifratura e il tunneling, utilizzano uno o più tunnel, ognino dei quali da soltanto 2 estremità.
+    - Garantiscono quindi:
+        - un sistema di autenticazione;
+        - che i dati viaggino criptati;
+        - che il livello di cripting dei dati sia elevato e modificabile nel tempo.
 - **Hybrid VPN**: si affida tanto all’ISP quanto ai protocolli per la sicurezza
+    - Lo scenario tipico è quello di un’azienda che ha già una Trusted VPN e desidera sicurezza su una parte della VPN e dunque crea una Hybrid VPN.
 
 <br><br>
 by ***Leonardo Canu*** *5B-IA*
